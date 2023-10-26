@@ -9,4 +9,7 @@ public class EmployeeController {
 
 	//TODO: Add update endpoint
 	
+	//TODO: Add fetch endpoint
+
+	//TODO: Add delete endpoint
 }
