@@ -10,6 +10,10 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
   security:
     oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8484/realms/KeycloakSB
+          jwk-set-uri: http://localhost:8484/realms/KeycloakSB/protocol/openid-connect/certs 
       client:
         registration:
           keycloak:
