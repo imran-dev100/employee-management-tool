@@ -24,4 +24,4 @@ spring:
             user-name-attribute: emt-application
     
 server:
-  port: 9393
+  port: 9294
