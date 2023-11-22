@@ -22,6 +22,5 @@ spring:
             scope: openid
             issuer-uri: http://localhost:8484/realms/KeycloakSB
             user-name-attribute: emt-application
-    
 server:
   port: 9294
