@@ -24,7 +24,8 @@ public class EmployeeServiceImpl implements EmployeeService {
 
 	@Override
 	public Employee update(final long id, final Employee employee) {
-		final Employee savedEmployee = employeeRepository.findById(id).orElseThrow(EmployeeNotFoundException::new);
+		final Employee savedEmployee = employeeRepository.findById(id)
+				.orElseThrow(() -> new EmployeeNotFoundException("Employee not found by id:" + id));
 		savedEmployee
 				.setAge(Objects.nonNull(employee.getAge()) && !Objects.equals(employee.getAge(), savedEmployee.getAge())
 						? employee.getAge()
@@ -38,7 +39,8 @@ public class EmployeeServiceImpl implements EmployeeService {
 
 	@Override
 	public Employee fetchById(final long id) {
-		return employeeRepository.findById(id).orElseThrow(EmployeeNotFoundException::new);
+		return employeeRepository.findById(id)
+				.orElseThrow(() -> new EmployeeNotFoundException("Employee not found by id:" + id));
 	}
 
 	@Override

@@ -1,6 +1,8 @@
 package com.employee.app.exception;
 
-public class EmployeeNotFoundException extends RuntimeException {
+import jakarta.persistence.EntityNotFoundException;
+
+public class EmployeeNotFoundException extends EntityNotFoundException {
 
 	private static final long serialVersionUID = 335477230763683868L;
 
