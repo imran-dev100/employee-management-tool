@@ -2,25 +2,8 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/personal?autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
     username: root
-    password: ****
+    password: root
     driverClassName: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: update
-    database-platform: org.hibernate.dialect.MySQLDialect
-  security:
-    oauth2:
-      resourceserver:
-        jwt:
-          issuer-uri: http://localhost:8484/realms/KeycloakSB
-          jwk-set-uri: http://localhost:8484/realms/KeycloakSB/protocol/openid-connect/certs 
-      client:
-        registration:
-          keycloak:
-            client-id: app-login
-            authorization-grant-type: authorization_code
-            scope: openid
-            issuer-uri: http://localhost:8484/realms/KeycloakSB
-            user-name-attribute: emt-application
-server:
-  port: 9294
