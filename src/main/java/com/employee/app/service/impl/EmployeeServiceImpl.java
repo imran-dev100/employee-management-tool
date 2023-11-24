@@ -25,10 +25,14 @@ public class EmployeeServiceImpl implements EmployeeService {
 	@Override
 	public Employee update(final long id, final Employee employee) {
 		final Employee savedEmployee = employeeRepository.findById(id).orElseThrow(EmployeeNotFoundException::new);
-		savedEmployee.setAge(!Objects.equals(employee.getAge(), savedEmployee.getAge()) ? employee.getAge()
-				: savedEmployee.getAge());
-		savedEmployee.setName(!Objects.equals(employee.getName(), savedEmployee.getName()) ? employee.getName()
-				: savedEmployee.getName());
+		savedEmployee
+				.setAge(Objects.nonNull(employee.getAge()) && !Objects.equals(employee.getAge(), savedEmployee.getAge())
+						? employee.getAge()
+						: savedEmployee.getAge());
+		savedEmployee.setName(
+				Objects.nonNull(employee.getName()) && !Objects.equals(employee.getName(), savedEmployee.getName())
+						? employee.getName()
+						: savedEmployee.getName());
 		return employeeRepository.save(savedEmployee);
 	}
 
