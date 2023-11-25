@@ -17,6 +17,9 @@ import org.springframework.web.bind.annotation.RestController;
 import com.employee.app.entity.Employee;
 import com.employee.app.service.EmployeeService;
 
+import jakarta.servlet.http.Cookie;
+import jakarta.servlet.http.HttpServletResponse;
+
 @RequestMapping("/employee")
 @RestController
 public class EmployeeController {
@@ -40,7 +43,8 @@ public class EmployeeController {
 	}
 
 	@GetMapping("/all")
-	public ResponseEntity<List<Employee>> getAll() {
+	public ResponseEntity<List<Employee>> getAll(HttpServletResponse response) {
+		response.addCookie(new Cookie("test-cookie","test-cookie"));
 		return new ResponseEntity<>(employeeService.fetchAll(), HttpStatus.OK);
 	}
 
