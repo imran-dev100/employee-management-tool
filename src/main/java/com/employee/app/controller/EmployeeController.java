@@ -42,7 +42,7 @@ public class EmployeeController {
 		return new ResponseEntity<>(employeeService.fetchById(id), HttpStatus.OK);
 	}
 
-	@GetMapping("/all")
+	@GetMapping(value = "/all",produces = {"application/json"})
 	public ResponseEntity<List<Employee>> getAll(HttpServletResponse response) {
 		response.addCookie(new Cookie("test-cookie","test-cookie"));
 		return new ResponseEntity<>(employeeService.fetchAll(), HttpStatus.OK);
