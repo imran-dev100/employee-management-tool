@@ -9,7 +9,6 @@ public class EmployeeNotFoundException extends EntityNotFoundException {
 	public EmployeeNotFoundException() {
 		super();
 	}
-
 	public EmployeeNotFoundException(final String message) {
 		super(message);
 	}
