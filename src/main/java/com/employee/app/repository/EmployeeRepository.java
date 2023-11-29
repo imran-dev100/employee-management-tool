@@ -9,5 +9,4 @@ import com.employee.app.entity.Employee;
 public interface EmployeeRepository extends CrudRepository<Employee, Long>{
 
   //TODO: Add findByName
-
 }
