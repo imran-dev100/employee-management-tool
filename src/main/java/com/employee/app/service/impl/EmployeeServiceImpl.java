@@ -21,7 +21,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 	public Employee create(final Employee employee) {
 		return employeeRepository.save(employee);
 	}
-
+	
 	@Override
 	public Employee update(final long id, final Employee employee) {
 		final Employee savedEmployee = employeeRepository.findById(id)
@@ -52,5 +52,4 @@ public class EmployeeServiceImpl implements EmployeeService {
 	public void removeById(final long id) {
 		employeeRepository.deleteById(id);
 	}
-
 }
