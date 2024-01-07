@@ -7,5 +7,4 @@ import com.employee.app.entity.Employee;
 
 @Repository
 public interface EmployeeRepository extends CrudRepository<Employee, Long>{
-
 }
