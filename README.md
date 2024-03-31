@@ -5,6 +5,19 @@
 ![Maven][apache-maven]
 [![Spring Boot][spring-boot]][developers]
 
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/<user>/<gist-ID>/raw/test.json)
+
+| Technology | Version |
+| :--- | :--- |
+| ![Java][java]  | `17` |
+| `.NET` | `dotnet` |
+
+<br />
+<div>
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img  style="float: right;"  src="https://github.com/othneildrew/Best-README-Template/blob/master/images/logo.png" alt="Logo" width="80" height="80" top="0" left="0">
+  </a>
+</div>
 
 
 # employee-management-tool 
