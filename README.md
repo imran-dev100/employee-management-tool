@@ -7,10 +7,12 @@
 </div>
 
 
-![build](https://img.shields.io/badge/build-passing-bright_green)
+![build](https://img.shields.io/badge/build-passing-blue)
 ![coverage](https://img.shields.io/badge/coverage-100-bright_green)
-![version](https://img.shields.io/badge/version-1.0-bright_green)
-![license](https://img.shields.io/badge/license-none-bright_green)
+![version](https://img.shields.io/badge/version-1.0-navy)
+![license](https://img.shields.io/badge/license-none-beige)
+![repository](https://img.shields.io/badge/repository-private-brown)
+![contributors](https://img.shields.io/badge/contributors-1-chocolate)
 
 <br/>
 
