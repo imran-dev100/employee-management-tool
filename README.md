@@ -2,7 +2,7 @@
 <br />
 <div>
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img  style="float: right;"  src="https://github.com/othneildrew/Best-README-Template/blob/master/images/logo.png" alt="Logo" width="80" height="80" top="0" left="0">
+    <img  style="float: right;"  src="src/main/resources/join_raisin.jpeg" alt="Logo" width="80" height="80" top="0" left="0">
   </a>
 </div>
 
