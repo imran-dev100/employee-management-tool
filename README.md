@@ -1,18 +1,4 @@
 <a name="readme-top"></a>
-
-![Git][git]
-![Java][java]
-![Maven][apache-maven]
-[![Spring Boot][spring-boot]][developers]
-
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/<user>/<gist-ID>/raw/test.json)
-
-| Technology | Version |
-| :--- | :--- |
-| ![Java][java]  | `17` |
-| `.NET` | `dotnet` |
-
-
 <br />
 <div>
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -21,7 +7,24 @@
 </div>
 
 
+<br/>
+
+# Prerequisites 
+<br/>
+
+| Technology | Version |
+| :--- | :--- |
+| ![Git][git] | `Any`  |
+| ![Java][java]  | `17` |
+| ![Maven][apache-maven] | `3.9.4` |
+| ![Spring Boot][spring-boot] | `3.2.4` |
+
+
+
+
+
 # employee-management-tool 
+<br/>
 Employee Management Tool is a Spring Boot Application. It consists of various Spring libraries like JPA.
 
 [developers]: https://github.com/imran-dev100/employee-management-tool/graphs/contributors
