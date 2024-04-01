@@ -7,9 +7,14 @@
 </div>
 
 
+![build](https://img.shields.io/badge/build-passing-bright_green)
+![coverage](https://img.shields.io/badge/coverage-100-bright_green)
+![version](https://img.shields.io/badge/version-1.0-bright_green)
+![license](https://img.shields.io/badge/license-none-bright_green)
+
 <br/>
 
-# Prerequisites 
+<h1>Prerequisites</h1>
 <br/>
 
 | Technology | Version |
