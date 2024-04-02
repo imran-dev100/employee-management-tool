@@ -39,6 +39,25 @@
 
 # Installation
 
+- Clone the branch on your Linux or MacOS system using the terminal.
+
+- Once cloned, change the directory to the project directory.
+
+- Run the python server on port 7299 using fixture file on one terminal.
+
+```
+git clone 
+```
+- Open new terminal on the same path.
+
+- Change the path to soltion directory.
+
+- Run the program using maven command.
+
+Some records from one source will not have a match from the other source, these are "orphaned" records.
+
+Some records are malformed, these are "defective" records.
+
 
 <br/>
 
