@@ -43,21 +43,24 @@
 
 - Once cloned, change the directory to the project directory.
 
-- Run the python server on port 7299 using fixture file on one terminal.
+- As per your suggestion, run the python server on port 7299 using fixture file on one terminal.
 
 ```
-git clone 
+git clone <reposiory-url>
+cd Imran-Ansari---Technical-challenge
+python3 fixture_3.py -n 10000
 ```
+
 - Open new terminal on the same path.
 
 - Change the path to soltion directory.
 
 - Run the program using maven command.
 
-Some records from one source will not have a match from the other source, these are "orphaned" records.
-
-Some records are malformed, these are "defective" records.
-
+```
+cd solution
+mvn spring-boot:run
+```
 
 <br/>
 
