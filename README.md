@@ -1,6 +1,6 @@
 <br />
 <div>
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/imran-dev100/employee-management-tool/blob/main/src/main/resources/join_raisin_linkedIn.jpeg">
     <img  style="float: right;"  src="src/main/resources/join_raisin_linkedIn.jpeg" alt="Logo" top="0" left="0">
   </a>
 </div>
@@ -63,16 +63,16 @@ This project contains a solution for the assignment delivered by the Talent Acqu
      ```
         git clone -b <branch> <repo>
      ```
-- Configure desired logs path on line 14 in **_application.yml_** by using vi or any other editor.
+- Configure desired logs path on line 14 in **_application.yml_**[^1] by using vi or any other editor.
 
      ```
-        vi Imran-Ansari---Technical-challenge/solution/src/main/resources/application.yml
+        vi application.yml
      ```
 
      **_OR_**
      <br />
      <div>
-      <a href="https://github.com/othneildrew/Best-README-Template">
+      <a href="https://github.com/imran-dev100/employee-management-tool/blob/main/src/main/resources/application.yml">
       <img  style="float: right;"  src="src/main/resources/Screenshot%20from%202024-04-05%2019-18-05.png" alt="Logo" top="0" left="0">
       </a>
       
@@ -158,7 +158,10 @@ Distributed under the MIT License. See [MIT©Imran Ansari](LICENSE) for more inf
 > [!TIP]
 > Try executing the program from multiple terminals rather than from IDE for better performance and longer run.
 
-<!-----------------------------------------------------BADGES URL---------------------------------------------------------->
+<!------------------------------------------------------FOOTNOTES----------------------------------------------------------->
+
+[^1]: File - /Imran-Ansari---Technical-challenge/solution/src/main/resources/application.yml
+<!-----------------------------------------------------BADGES URL----------------------------------------------------------->
 
 [build]:  https://img.shields.io/badge/build-passing-blue
 [coverage]: https://img.shields.io/badge/coverage-100-bright_green
