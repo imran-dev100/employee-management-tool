@@ -133,13 +133,31 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 <!-------------------------------------------------------CREDITS------------------------------------------------------------>
 
+
 ## Credits
 
+It is good to give credit to your contributors as they have given their precious time working on your project so list their name with contact details for eg:
+
+<!-- Add links to all the contributors profile here -->
+
+-   [@ImranAnsari](https://github.com/imran-dev100)
+
+<!-------------------------------------------------------LICENSE------------------------------------------------------------>
+
+
+## License
+
+MIT © [Imran Ansari]()
+
+Distributed under the MIT License. See LICENSE for more information.
+
+Distributed under the MIT License. See [`LICENSE`](LICENCE) for more information.
 
 <br/>
 
 
-<!-----------------------------------------------------BADGES URL--------------------------------------------------------->
+
+<!-----------------------------------------------------BADGES URL---------------------------------------------------------->
 
 [build]:  https://img.shields.io/badge/build-passing-blue
 [coverage]: https://img.shields.io/badge/coverage-100-bright_green
@@ -148,9 +166,10 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 [repository]: https://img.shields.io/badge/repository-private-brown
 [contributors]: https://img.shields.io/badge/contributors-1-chocolate
 
-<!---------------------------------------------------------EOF------------------------------------------------------------>
-
 [developers]: https://github.com/imran-dev100/employee-management-tool/graphs/contributors
 <br/>
-<!------------------------------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------------->
 
+
+
+<!----------------------------------------------------------EOF------------------------------------------------------------>
