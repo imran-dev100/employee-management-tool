@@ -59,7 +59,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
       </a>
       </div>
   
-- Then, move to the project directory **Imran-Ansari---Technical-challenge**.
+- Then, move to the project directory **_Imran-Ansari---Technical-challenge_**.
 
      ``` cd Imran-Ansari---Technical-challenge ```
 
@@ -67,11 +67,11 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
      ``` python3 fixture_3.py ```
 
-- Now, open a new terminal window and navigate to the solution directory of the project located at **Imran-Ansari---technical-challenge/solution** to run the program.
+- Now, open a new terminal window and navigate to the solution directory of the project located at **_Imran-Ansari---technical-challenge/solution_** to run the program.
 
      ``` cd Imran-Ansari---Technical-challenge/solution ```
 
-- Run the program using the **maven** command specified below.
+- Run the program using the **_maven_** command specified below.
 
      ``` mvn spring-boot:run ```
 
