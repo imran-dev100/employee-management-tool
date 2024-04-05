@@ -137,7 +137,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 [build]:  https://img.shields.io/badge/build-passing-blue
 [coverage]: https://img.shields.io/badge/coverage-100-bright_green
 [version]: https://img.shields.io/badge/version-1.0-navy
-[license]: https://img.shields.io/badge/license-MIT-beige
+[license]: https://img.shields.io/badge/license-MIT-AED6F1
 [repository]: https://img.shields.io/badge/repository-private-brown
 [contributors]: https://img.shields.io/badge/contributors-1-chocolate
 
