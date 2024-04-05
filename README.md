@@ -20,7 +20,7 @@
 <br/>
 <!------------------------------------------------------PROJECT----------------------------------------------------------->
 
-# Coding Challenge Solution
+## Coding Challenge Solution
 
 [![coding_challenge](https://img.shields.io/badge/Coding_Challenge-58D68D)](https://github.com/raisin-recruiting/Imran-Ansari---Technical-challenge/blob/master/README.md)
 
@@ -29,7 +29,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 <br/>
 <!---------------------------------------------------PREREQUISITES-------------------------------------------------------->
 
-# Prerequisites
+## Prerequisites
 
 <table>
    <tr>
@@ -56,7 +56,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 <!--------------------------------------------------GETTING STARTED------------------------------------------------------->
 
-# Getting started
+## Getting started
 
 - Clone the branch on your Linux or MacOS system using the terminal.
   
@@ -105,7 +105,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 <!--------------------------------------------------CHECK THE COUNT------------------------------------------------------->
 
-# How to check the count between the process
+## How to check the count between the process
 
 * From the directory **_/Imran-Ansari---Technical-challenge_** and run below commands.
     - For checking the expected count.
@@ -122,12 +122,19 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 <!-------------------------------------------------------TESTS------------------------------------------------------------>
 
-# Tests
+## Tests
 
 - Open the directory **_/Imran-Ansari---Technical-challenge/solution_** and run below command.
 ```
    mvn test
 ```
+
+<br/>
+
+<!-------------------------------------------------------CREDITS------------------------------------------------------------>
+
+## Credits
+
 
 <br/>
 
