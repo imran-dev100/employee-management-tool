@@ -75,7 +75,13 @@ This project contains a solution for the assignment delivered by the Talent Acqu
       <a href="https://github.com/othneildrew/Best-README-Template">
       <img  style="float: right;"  src="src/main/resources/Screenshot%20from%202024-04-05%2019-18-05.png" alt="Logo" top="0" left="0">
       </a>
-      </div>
+      
+     </div>
+     <br/>
+      
+     > NOTE: To ensure log generation, kindly adjust the directory's file permissions accordingly.
+      <br/>
+      <br/>
   
 - Then, move to the project directory **_/Imran-Ansari---Technical-challenge_**.
 
