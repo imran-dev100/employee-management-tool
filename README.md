@@ -53,21 +53,21 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 - Clone the branch on your Linux or MacOS system using the terminal.
   
      ``` git clone -b <branch> <repo> ```
+- Configure desired logs path on line 14 in **application.yml** available on path  **Imran-Ansari---Technical-challenge/solution/src/main/resources/application.yml** using vi or any other editor.
+
 - Then, move to the project directory **Imran-Ansari---Technical-challenge**.
 
      ``` cd Imran-Ansari---Technical-challenge ```
-
-- Configure desired logs path on line 14 in ```application.yml``` available on path ``` /solution/src/main/resources/application.yml ``` using any vi or any other editor.
 
 - According to the challenge instructions, execute the appropriate Python script to host the endpoints on port 7299 by utilizing the corresponding fixture file in a terminal.
 
      ``` python3 fixture_3.py ```
 
-- Please open a new terminal window and navigate to the project's solution directory ``` /Imran-Ansari---technical-challenge/solution ``` to proceed further.
+- Now, open a new terminal window and navigate to the solution directory of the project located at **Imran-Ansari---technical-challenge/solution** to run the program.
 
      ``` cd Imran-Ansari---Technical-challenge/solution ```
 
-- Run the program using the ```maven``` command specified below.
+- Run the program using the **maven** command specified below.
 
      ``` mvn spring-boot:run ```
 
