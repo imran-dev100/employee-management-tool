@@ -16,22 +16,18 @@
 ![repository][repository]
 ![contributors][contributors]
 
-<br/>
-
-<!------------------------------------------------------------------------------------------------------------------------>
 
 <br/>
+<!------------------------------------------------------PROJECT----------------------------------------------------------->
 
 # Coding Challenge Solution
+
 [![coding_challenge](https://img.shields.io/badge/Coding_Challenge-013220)](https://github.com/raisin-recruiting/Imran-Ansari---Technical-challenge/blob/master/README.md)
 
 This project contains a solution for the assignment delivered by the Talent Acquisition Manager.
 
 <br/>
-
 <!---------------------------------------------------PREREQUISITES-------------------------------------------------------->
-
-<br/>
 
 # Prerequisites
 
@@ -42,19 +38,27 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 | ![Maven][apache-maven]                   | `3.9.4` |
 | ![Spring Boot][spring-boot]              | `3.2.4` |
 
-<br/>
 
+<br/>
 <!--------------------------------------------------GETTING STARTED------------------------------------------------------->
-
-<br/>
 
 # Getting started
 
 - Clone the branch on your Linux or MacOS system using the terminal.
   
      ``` git clone -b <branch> <repo> ```
-- Configure desired logs path on line 14 in **application.yml** available on path  **Imran-Ansari---Technical-challenge/solution/src/main/resources/application.yml** using vi or any other editor.
+- Configure desired logs path on line 14 in **_application.yml_** by using vi or any other editor.
 
+     ``` vi Imran-Ansari---Technical-challenge/solution/src/main/resources/application.yml ```
+
+     **_OR_**
+     <br />
+     <div>
+      <a href="https://github.com/othneildrew/Best-README-Template">
+      <img  style="float: right;"  src="src/main/resources/join_raisin_linkedIn.jpeg" alt="Logo" top="0" left="0">
+      </a>
+      </div>
+  
 - Then, move to the project directory **Imran-Ansari---Technical-challenge**.
 
      ``` cd Imran-Ansari---Technical-challenge ```
@@ -75,8 +79,6 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 <!--------------------------------------------------CHECK THE COUNT------------------------------------------------------->
 
-<br/>
-
 # How to check the count between the process
 
 * From the directory ``` /Imran-Ansari---Technical-challenge ``` and run below commands.
@@ -90,10 +92,6 @@ This project contains a solution for the assignment delivered by the Talent Acqu
         ```
            cat submitted.txt | wc -l
         ```
-<br/>
-
-<!------------------------------------------------------------------------------------------------------------------------>
-
 <br/>
 
 <!-------------------------------------------------------TESTS------------------------------------------------------------>
