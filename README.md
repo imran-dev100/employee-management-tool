@@ -14,7 +14,7 @@
 ![version][version]
 ![license][license]
 ![repository][repository]
-![contributors][contributors]
+[![contributors][contributors]][developers]
 
 
 <br/>
@@ -148,6 +148,14 @@ Distributed under the MIT License. See [MIT©Imran Ansari](LICENSE) for more inf
 
 <br/>
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 <!-----------------------------------------------------BADGES URL---------------------------------------------------------->
 
 [build]:  https://img.shields.io/badge/build-passing-blue
