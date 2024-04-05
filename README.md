@@ -22,7 +22,7 @@
 
 # Coding Challenge Solution
 
-[![coding_challenge](https://img.shields.io/badge/Coding_Challenge-013220)](https://github.com/raisin-recruiting/Imran-Ansari---Technical-challenge/blob/master/README.md)
+[![coding_challenge](https://img.shields.io/badge/Coding_Challenge-58D68D)](https://github.com/raisin-recruiting/Imran-Ansari---Technical-challenge/blob/master/README.md)
 
 This project contains a solution for the assignment delivered by the Talent Acquisition Manager.
 
@@ -31,15 +31,47 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 # Prerequisites
 
-| Technology                               | Version |
-| :---                                     | :---    |
-| ![Git][git]                              | `Any`   |
-| ![Java][java]                            |   `17`  |
-| ![Maven][apache-maven]                   | `3.9.4` |
-| ![Spring Boot][spring-boot]              | `3.2.4` |
+<table>
+   <tr>
+      <td>
+         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+      </td>
+      <td>
+         <a>Git</a>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <p align="left">
+            <a href="https://www.oracle.com/in/java/technologies/downloads/#java17" target="" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+            </a>  
+      </td>
+      <td>
+         <a>Java 17.0.10</a>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2024/03/maven.png" alt="maven" width="40" height="40"/> </a>  
+      </td>
+      <td>
+         <a>Maven 3.9.5</a>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+      </td>
+      <td>
+         <a>Spring 3.2.4</a>
+      </td>
+   </tr>
+</table>
+ 
 
 
-<br/>
 <!--------------------------------------------------GETTING STARTED------------------------------------------------------->
 
 # Getting started
@@ -117,12 +149,8 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 [repository]: https://img.shields.io/badge/repository-private-brown
 [contributors]: https://img.shields.io/badge/contributors-1-chocolate
 
-[developers]: https://github.com/imran-dev100/employee-management-tool/graphs/contributors
-[spring-boot]: https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
-[apache-maven]: https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
-[git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 
+[developers]: https://github.com/imran-dev100/employee-management-tool/graphs/contributors
 <br/>
 <!------------------------------------------------------------------------------------------------------------------------>
 
