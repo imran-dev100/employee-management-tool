@@ -9,13 +9,12 @@
 
 <br/>
 
-![build](https://img.shields.io/badge/build-passing-blue)
-![coverage](https://img.shields.io/badge/coverage-100-bright_green)
-![version](https://img.shields.io/badge/version-1.0-navy)
-![license](https://img.shields.io/badge/license-none-beige)
-![repository](https://img.shields.io/badge/repository-private-brown)
-![contributors](https://img.shields.io/badge/contributors-1-chocolate)
-
+![build][build]
+![Coverage][coverage]
+![version][version]
+![license][license]
+![repository][repository]
+![contributors][contributors]
 <br/>
 
 <!------------------------------------------------------------------------------------------------------------------------>
@@ -114,6 +113,12 @@ mvn spring-boot:run
 
 <!-------------------------------------------------------BADGES----------------------------------------------------------->
 
+[build]:  https://img.shields.io/badge/build-passing-blue
+[coverage]: https://img.shields.io/badge/coverage-100-bright_green
+[version]: https://img.shields.io/badge/version-1.0-navy
+[license]: https://img.shields.io/badge/license-MIT-beige
+[repository]: https://img.shields.io/badge/repository-private-brown
+[contributors]: https://img.shields.io/badge/contributors-1-chocolate
 
 [developers]: https://github.com/imran-dev100/employee-management-tool/graphs/contributors
 [spring-boot]: https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
