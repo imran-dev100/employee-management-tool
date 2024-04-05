@@ -33,40 +33,22 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 <table>
    <tr>
-      <td>
-         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      </td>
-      <td>
-         <a>Git</a>
-      </td>
+      <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></td>
+      <td><a>Git</a></td>
    </tr>
    <tr>
-      <td>
-         <p align="left">
-            <a href="https://www.oracle.com/in/java/technologies/downloads/#java17" target="" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-            </a>  
-      </td>
-      <td>
-         <a>Java 17.0.10</a>
-      </td>
+      <td><a href="https://www.oracle.com/in/java/technologies/downloads/#java17" target="" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+      <td><a>Java 17.0.10</a></td>
    </tr>
    <tr>
-      <td>
-         <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2024/03/maven.png" alt="maven" width="40" height="40"/> </a>  
+      <td><a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2024/03/maven.png" alt="maven" width="40" height="40"/></a> 
       </td>
-      <td>
-         <a>Maven 3.9.5</a>
-      </td>
+      <td><a>Maven 3.9.5</a></td>
    </tr>
    <tr>
-      <td>
-         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-      </td>
-      <td>
-         <a>Spring 3.2.4</a>
-      </td>
+      <td><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></td>
+      <td><a>Spring 3.2.4</a></td>
    </tr>
 </table>
  
