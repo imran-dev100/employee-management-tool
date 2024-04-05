@@ -59,7 +59,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
       </a>
       </div>
   
-- Then, move to the project directory **_Imran-Ansari---Technical-challenge_**.
+- Then, move to the project directory **_/Imran-Ansari---Technical-challenge_**.
 
      ``` cd Imran-Ansari---Technical-challenge ```
 
@@ -67,7 +67,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
      ``` python3 fixture_3.py ```
 
-- Now, open a new terminal window and navigate to the solution directory of the project located at **_Imran-Ansari---technical-challenge/solution_** to run the program.
+- Now, open a new terminal window and navigate to the solution directory of the project located at **_/Imran-Ansari---technical-challenge/solution_** to run the program.
 
      ``` cd Imran-Ansari---Technical-challenge/solution ```
 
@@ -81,7 +81,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 # How to check the count between the process
 
-* From the directory ``` /Imran-Ansari---Technical-challenge ``` and run below commands.
+* From the directory **_/Imran-Ansari---Technical-challenge_** and run below commands.
     - For checking the expected count.
 
         ```
@@ -100,7 +100,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 # Tests
 
-- Open the directory ``` /solution ``` inside directory ``` /Imran-Ansari---Technical-challenge ``` and run below command.
+- Open the directory **_/Imran-Ansari---Technical-challenge/solution_** and run below command.
 ``` mvn test ```
 
 <br/>
