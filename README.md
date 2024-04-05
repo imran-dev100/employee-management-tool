@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<!------------------------------------------------------------------------------------------------------------------------>
+<!-------------------------------------------------------BADGES----------------------------------------------------------->
 
 <br/>
 
@@ -15,6 +15,7 @@
 ![license][license]
 ![repository][repository]
 ![contributors][contributors]
+
 <br/>
 
 <!------------------------------------------------------------------------------------------------------------------------>
@@ -27,8 +28,8 @@
 This project contains a solution for the assignment delivered by the Talent Acquisition Manager.
 
 <br/>
-<!---------------------------------------------------PREREQUISITES-------------------------------------------------------->
 
+<!---------------------------------------------------PREREQUISITES-------------------------------------------------------->
 
 <br/>
 
@@ -50,16 +51,17 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 # Getting started
 
 - Clone the branch on your Linux or MacOS system using the terminal.
+  
+     ``` git clone -b <branch> <repo> ```
+- Then, move to the project directory **Imran-Ansari---Technical-challenge**.
 
-- Once cloned, change the directory to the project directory ``` Imran-Ansari---Technical-challenge ```.
+     ``` cd Imran-Ansari---Technical-challenge ```
 
-- As suggested in the challenge description, run the suitable Python server on port 7299 using the corresponding fixture file on a terminal.
+- Configure desired logs path on line 14 in ```application.yml``` available on path ``` /solution/src/main/resources/application.yml ``` using any vi or any other editor.
 
-```
-git clone <reposiory-url>
-cd Imran-Ansari---Technical-challenge
-python3 fixture_3.py -n 10000
-```
+- According to the challenge instructions, execute the appropriate Python script to host the endpoints on port 7299 by utilizing the corresponding fixture file in a terminal.
+
+     ``` python3 fixture_3.py ```
 
 - Open a new terminal with the same directory path ``` Imran-Ansari---technical-challenge ```
 
@@ -111,7 +113,7 @@ mvn spring-boot:run
 <!------------------------------------------------------------------------------------------------------------------------>
 
 
-<!-------------------------------------------------------BADGES----------------------------------------------------------->
+<!-----------------------------------------------------BADGES URL--------------------------------------------------------->
 
 [build]:  https://img.shields.io/badge/build-passing-blue
 [coverage]: https://img.shields.io/badge/coverage-100-bright_green
