@@ -52,7 +52,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
    </tr>
 </table>
  
-
+<br/>
 
 <!--------------------------------------------------GETTING STARTED------------------------------------------------------->
 
