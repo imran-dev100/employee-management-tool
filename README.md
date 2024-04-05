@@ -135,27 +135,18 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 
 ## Credits
+The solution module is developed by [Imran Ansari](https://github.com/imran-dev100).
 
-It is good to give credit to your contributors as they have given their precious time working on your project so list their name with contact details for eg:
-
-<!-- Add links to all the contributors profile here -->
-
--   [Imran Ansari](https://github.com/imran-dev100)
+<br/>
 
 <!-------------------------------------------------------LICENSE------------------------------------------------------------>
 
 
 ## License
 
-MIT © [Imran Ansari](LICENSE)
-
-Distributed under the MIT License. See LICENSE for more information.
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Distributed under the MIT License. See [MIT©Imran Ansari](LICENSE) for more information.
 
 <br/>
-
-
 
 <!-----------------------------------------------------BADGES URL---------------------------------------------------------->
 
