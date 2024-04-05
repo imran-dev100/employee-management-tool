@@ -52,9 +52,9 @@
 
 - Clone the branch on your Linux or MacOS system using the terminal.
 
-- Once cloned, change the directory to the project directory.
+- Once cloned, change the directory to the project directory ``` Imran-Ansari---Technical-challenge ```.
 
-- As per your suggestion, run the python server on port 7299 using fixture file on one terminal.
+- As per your suggestion, run the suitable Python server on port 7299 using the corresponding fixture file on a terminal.
 
 ```
 git clone <reposiory-url>
@@ -62,11 +62,11 @@ cd Imran-Ansari---Technical-challenge
 python3 fixture_3.py -n 10000
 ```
 
-- Open new terminal on the same path.
+- Open a new terminal with the same directory path ``` Imran-Ansari---technical-challenge ```
 
-- Change the path to soltion directory.
+- Change the path to the solution directory.
 
-- Run the program using maven command.
+- Run the program using the maven command.
 
 ```
 cd solution
@@ -81,15 +81,35 @@ mvn spring-boot:run
 
 # How to check the count between the process
 
+* From the directory ``` /Imran-Ansari---Technical-challenge ``` and run below commands.
+    - For checking the expected count.
 
+        ```
+           cat expected.txt | wc -l
+        ```
+    - For checking the submitted count.
 
-
-<!------------------------------------------------------------------------------------------------------------------------>
+        ```
+           cat submitted.txt | wc -l
+        ```
 <br/>
+
 <!------------------------------------------------------------------------------------------------------------------------>
 
+<br/>
 
+<!------------------------------------------------------------------------------------------------------------------------>
 
+<br/>
+
+# Running using test
+
+- Open the directory ``` /solution ``` inside directory ``` /Imran-Ansari---Technical-challenge ``` and run below command.
+``` mvn test ```
+
+<br/>
+
+<!------------------------------------------------------------------------------------------------------------------------>
 
 
 <!-------------------------------------------------------BADGES----------------------------------------------------------->
