@@ -102,7 +102,7 @@ mvn spring-boot:run
 
 <br/>
 
-# Running using test
+# Tests
 
 - Open the directory ``` /solution ``` inside directory ``` /Imran-Ansari---Technical-challenge ``` and run below command.
 ``` mvn test ```
