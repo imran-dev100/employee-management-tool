@@ -7,3 +7,13 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
+
+      
+logging:
+  config: classpath:logback-spring.xml
+  path: /var/log/raisin
+  level:
+    root: INFO
+    org:
+      springframework:
+        web: ERROR
