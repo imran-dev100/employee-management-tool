@@ -140,18 +140,18 @@ It is good to give credit to your contributors as they have given their precious
 
 <!-- Add links to all the contributors profile here -->
 
--   [@ImranAnsari](https://github.com/imran-dev100)
+-   [Imran Ansari](https://github.com/imran-dev100)
 
 <!-------------------------------------------------------LICENSE------------------------------------------------------------>
 
 
 ## License
 
-MIT © [Imran Ansari]()
+MIT © [Imran Ansari](LICENSE)
 
 Distributed under the MIT License. See LICENSE for more information.
 
-Distributed under the MIT License. See [`LICENSE`](LICENCE) for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 <br/>
 
