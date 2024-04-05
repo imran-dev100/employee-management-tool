@@ -38,7 +38,7 @@
 
 <br/>
 
-# Installation
+# Getting started
 
 - Clone the branch on your Linux or MacOS system using the terminal.
 
