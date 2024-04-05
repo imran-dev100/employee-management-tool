@@ -73,7 +73,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
      <br />
      <div>
       <a href="https://github.com/othneildrew/Best-README-Template">
-      <img  style="float: right;"  src="src/main/resources/join_raisin_linkedIn.jpeg" alt="Logo" top="0" left="0">
+      <img  style="float: right;"  src="src/main/resources/Screenshot%20from%202024-04-05%2019-18-05.png" alt="Logo" top="0" left="0">
       </a>
       </div>
   
