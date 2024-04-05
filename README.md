@@ -23,13 +23,11 @@
 <br/>
 
 # Coding Challenge Solution
-[![coding_challenge](https://img.shields.io/badge/Coding_Challenge-013220)](https://github.com/raisin-recruiting/Imran-Ansari---Technical-challenge)
+[![coding_challenge](https://img.shields.io/badge/Coding_Challenge-013220)](https://github.com/raisin-recruiting/Imran-Ansari---Technical-challenge/blob/master/README.md)
 
-It is a solution for the assignment delivered by the Talent Acquisition Manager.
-
+This project containings a solution for the assignment delivered by the Talent Acquisition Manager.
 
 <br/>
-
 <!------------------------------------------------------------------------------------------------------------------------>
 
 
@@ -56,7 +54,7 @@ It is a solution for the assignment delivered by the Talent Acquisition Manager.
 
 - Once cloned, change the directory to the project directory ``` Imran-Ansari---Technical-challenge ```.
 
-- As per your suggestion, run the suitable Python server on port 7299 using the corresponding fixture file on a terminal.
+- As suggested in the challenge description, run the suitable Python server on port 7299 using the corresponding fixture file on a terminal.
 
 ```
 git clone <reposiory-url>
@@ -66,9 +64,9 @@ python3 fixture_3.py -n 10000
 
 - Open a new terminal with the same directory path ``` Imran-Ansari---technical-challenge ```
 
-- Change the path to the solution directory.
+- Change the path to the ```/solution``` directory.
 
-- Run the program using the maven command.
+- Run the program using the ```maven``` command.
 
 ```
 cd solution
