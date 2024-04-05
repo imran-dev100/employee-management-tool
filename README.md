@@ -60,10 +60,14 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 - Clone the branch on your Linux or MacOS system using the terminal.
   
-     ``` git clone -b <branch> <repo> ```
+     ```
+        git clone -b <branch> <repo>
+     ```
 - Configure desired logs path on line 14 in **_application.yml_** by using vi or any other editor.
 
-     ``` vi Imran-Ansari---Technical-challenge/solution/src/main/resources/application.yml ```
+     ```
+        vi Imran-Ansari---Technical-challenge/solution/src/main/resources/application.yml
+     ```
 
      **_OR_**
      <br />
@@ -75,19 +79,27 @@ This project contains a solution for the assignment delivered by the Talent Acqu
   
 - Then, move to the project directory **_/Imran-Ansari---Technical-challenge_**.
 
-     ``` cd Imran-Ansari---Technical-challenge ```
+     ```
+        cd Imran-Ansari---Technical-challenge
+     ```
 
 - According to the challenge instructions, execute the appropriate Python script to host the endpoints on port 7299 by utilizing the corresponding fixture file in a terminal.
 
-     ``` python3 fixture_3.py ```
+     ```
+        python3 fixture_3.py
+     ```
 
 - Now, open a new terminal window and navigate to the solution directory of the project located at **_/Imran-Ansari---technical-challenge/solution_** to run the program.
 
-     ``` cd Imran-Ansari---Technical-challenge/solution ```
+     ```
+        cd Imran-Ansari---Technical-challenge/solution
+     ```
 
 - Run the program using the **_maven_** command specified below.
 
-     ``` mvn spring-boot:run ```
+     ```
+        mvn spring-boot:run
+     ```
 
 <br/>
 
@@ -110,16 +122,14 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 <!-------------------------------------------------------TESTS------------------------------------------------------------>
 
-<br/>
-
 # Tests
 
 - Open the directory **_/Imran-Ansari---Technical-challenge/solution_** and run below command.
-``` mvn test ```
+```
+   mvn test
+```
 
 <br/>
-
-<!------------------------------------------------------------------------------------------------------------------------>
 
 
 <!-----------------------------------------------------BADGES URL--------------------------------------------------------->
