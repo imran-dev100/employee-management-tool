@@ -141,6 +141,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 [repository]: https://img.shields.io/badge/repository-private-brown
 [contributors]: https://img.shields.io/badge/contributors-1-chocolate
 
+<!---------------------------------------------------------EOF------------------------------------------------------------>
 
 [developers]: https://github.com/imran-dev100/employee-management-tool/graphs/contributors
 <br/>
