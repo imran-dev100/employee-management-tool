@@ -25,10 +25,10 @@
 # Coding Challenge Solution
 [![coding_challenge](https://img.shields.io/badge/Coding_Challenge-013220)](https://github.com/raisin-recruiting/Imran-Ansari---Technical-challenge/blob/master/README.md)
 
-This project containings a solution for the assignment delivered by the Talent Acquisition Manager.
+This project contains a solution for the assignment delivered by the Talent Acquisition Manager.
 
 <br/>
-<!------------------------------------------------------------------------------------------------------------------------>
+<!---------------------------------------------------PREREQUISITES-------------------------------------------------------->
 
 
 <br/>
@@ -44,7 +44,7 @@ This project containings a solution for the assignment delivered by the Talent A
 
 <br/>
 
-<!------------------------------------------------------------------------------------------------------------------------>
+<!--------------------------------------------------GETTING STARTED------------------------------------------------------->
 
 <br/>
 
@@ -75,7 +75,7 @@ mvn spring-boot:run
 
 <br/>
 
-<!------------------------------------------------------------------------------------------------------------------------> 
+<!--------------------------------------------------CHECK THE COUNT------------------------------------------------------->
 
 <br/>
 
@@ -98,7 +98,7 @@ mvn spring-boot:run
 
 <br/>
 
-<!------------------------------------------------------------------------------------------------------------------------>
+<!-------------------------------------------------------TESTS------------------------------------------------------------>
 
 <br/>
 
