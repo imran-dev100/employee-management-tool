@@ -63,16 +63,13 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
      ``` python3 fixture_3.py ```
 
-- Open a new terminal with the same directory path ``` Imran-Ansari---technical-challenge ```
+- Please open a new terminal window and navigate to the project's solution directory ``` /Imran-Ansari---technical-challenge/solution ``` to proceed further.
 
-- Change the path to the ```/solution``` directory.
+     ``` cd Imran-Ansari---Technical-challenge/solution ```
 
-- Run the program using the ```maven``` command.
+- Run the program using the ```maven``` command specified below.
 
-```
-cd solution
-mvn spring-boot:run
-```
+     ``` mvn spring-boot:run ```
 
 <br/>
 
