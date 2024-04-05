@@ -167,7 +167,7 @@ Distributed under the MIT License. See [MIT©Imran Ansari](LICENSE) for more inf
 [coverage]: https://img.shields.io/badge/coverage-100-bright_green
 [version]: https://img.shields.io/badge/version-1.0-2E86C1
 [license]: https://img.shields.io/badge/license-MIT-F7F9F9
-[repository]: https://img.shields.io/badge/repository-private-0E6655
+[repository]: https://img.shields.io/badge/repository-private-beige
 [contributors]: https://img.shields.io/badge/contributors-1-6E2C00
 
 [developers]: https://github.com/imran-dev100/employee-management-tool/graphs/contributors
