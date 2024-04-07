@@ -161,6 +161,7 @@ Distributed under the MIT License. See [MIT©Imran Ansari](LICENSE) for more inf
 <!------------------------------------------------------FOOTNOTES----------------------------------------------------------->
 
 [^1]: Filepath :- /Imran-Ansari---Technical-challenge/solution/src/main/resources/application.yml
+
 <!-----------------------------------------------------BADGES URL----------------------------------------------------------->
 
 [build]:  https://img.shields.io/badge/build-passing-blue
