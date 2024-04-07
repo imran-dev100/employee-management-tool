@@ -63,7 +63,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
      ```
         git clone -b <branch> <repo>
      ```
-- Configure desired logs path on line 14 in **_application.yml_**[^1] by using vi or any other editor.
+- Configure desired logs path on line 14 in `application.yml`[^1] by using vi or any other editor.
 
      ```
         vi application.yml
@@ -83,7 +83,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
       <br/>
       <br/>
   
-- Then, move to the project directory **_/Imran-Ansari---Technical-challenge_**.
+- Then, move to the project directory `/Imran-Ansari---Technical-challenge`.
 
      ```
         cd Imran-Ansari---Technical-challenge
@@ -95,13 +95,13 @@ This project contains a solution for the assignment delivered by the Talent Acqu
         python3 fixture_3.py
      ```
 
-- Now, open a new terminal window and navigate to the solution directory of the project located at **_/Imran-Ansari---technical-challenge/solution_** to run the program.
+- Now, open a new terminal window and navigate to the solution directory of the project located at `/Imran-Ansari---technical-challenge/solution` to run the program.
 
      ```
         cd Imran-Ansari---Technical-challenge/solution
      ```
 
-- Run the program using the **_maven_** command specified below.
+- Run the program using the `maven` command specified below.
 
      ```
         mvn spring-boot:run
@@ -113,7 +113,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 ### How to check the count between the process
 
-* From the directory **_/Imran-Ansari---Technical-challenge_** and run below commands.
+* From the directory `/Imran-Ansari---Technical-challenge` and run below commands.
     - For checking the expected count.
 
         ```
@@ -130,7 +130,7 @@ This project contains a solution for the assignment delivered by the Talent Acqu
 
 ### Tests
 
-- Open the directory **_/Imran-Ansari---Technical-challenge/solution_** and run below command.
+- Open the directory `/Imran-Ansari---Technical-challenge/solution` and run below command.
 ```
    mvn test
 ```
